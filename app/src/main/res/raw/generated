@@ -1,0 +1,407 @@
+[
+  {
+    "id": 0,
+    "name": "FlumBank",
+    "address": "597 Lenox Road, Stollings, Illinois, 4178",
+    "phone": "+1 (986) 593-3723",
+    "employeeCount": 46,
+    "workTime": "09:00-19:00",
+    "email": "service@flumbank.com"
+  },
+  {
+    "id": 1,
+    "name": "SkyplexBank",
+    "address": "454 Norwood Avenue, Brownlee, West Virginia, 3659",
+    "phone": "+1 (817) 542-3678",
+    "employeeCount": 46,
+    "workTime": "09:00-19:00",
+    "email": "service@skyplexbank.com"
+  },
+  {
+    "id": 2,
+    "name": "GushkoolBank",
+    "address": "816 Barlow Drive, Malo, Wisconsin, 3249",
+    "phone": "+1 (814) 474-3455",
+    "employeeCount": 95,
+    "workTime": "09:00-19:00",
+    "email": "service@gushkoolbank.com"
+  },
+  {
+    "id": 3,
+    "name": "GynkoBank",
+    "address": "818 Story Street, Abiquiu, New Mexico, 6243",
+    "phone": "+1 (870) 403-3178",
+    "employeeCount": 91,
+    "workTime": "09:00-19:00",
+    "email": "service@gynkobank.com"
+  },
+  {
+    "id": 4,
+    "name": "AutograteBank",
+    "address": "757 Cadman Plaza, Coaldale, Rhode Island, 7781",
+    "phone": "+1 (912) 523-2810",
+    "employeeCount": 36,
+    "workTime": "09:00-19:00",
+    "email": "service@autogratebank.com"
+  },
+  {
+    "id": 5,
+    "name": "VitricompBank",
+    "address": "152 Suydam Street, Draper, Nevada, 7664",
+    "phone": "+1 (804) 574-2828",
+    "employeeCount": 74,
+    "workTime": "09:00-19:00",
+    "email": "service@vitricompbank.com"
+  },
+  {
+    "id": 6,
+    "name": "ZensureBank",
+    "address": "900 Brigham Street, Sunbury, Georgia, 6673",
+    "phone": "+1 (970) 497-2282",
+    "employeeCount": 72,
+    "workTime": "09:00-19:00",
+    "email": "service@zensurebank.com"
+  },
+  {
+    "id": 7,
+    "name": "QaboosBank",
+    "address": "503 Kent Street, Idledale, Connecticut, 6714",
+    "phone": "+1 (983) 406-3295",
+    "employeeCount": 97,
+    "workTime": "09:00-19:00",
+    "email": "service@qaboosbank.com"
+  },
+  {
+    "id": 8,
+    "name": "GlukglukBank",
+    "address": "206 Bushwick Avenue, Newry, South Dakota, 7007",
+    "phone": "+1 (879) 557-2264",
+    "employeeCount": 85,
+    "workTime": "09:00-19:00",
+    "email": "service@glukglukbank.com"
+  },
+  {
+    "id": 9,
+    "name": "SpacewaxBank",
+    "address": "254 Lincoln Terrace, Chical, California, 8315",
+    "phone": "+1 (919) 567-2488",
+    "employeeCount": 36,
+    "workTime": "09:00-19:00",
+    "email": "service@spacewaxbank.com"
+  },
+  {
+    "id": 10,
+    "name": "HydrocomBank",
+    "address": "665 Delmonico Place, Lydia, Alaska, 6821",
+    "phone": "+1 (862) 402-3048",
+    "employeeCount": 98,
+    "workTime": "09:00-19:00",
+    "email": "service@hydrocombank.com"
+  },
+  {
+    "id": 11,
+    "name": "ComtrailBank",
+    "address": "599 Montieth Street, Roberts, Arkansas, 4930",
+    "phone": "+1 (919) 521-2240",
+    "employeeCount": 77,
+    "workTime": "09:00-19:00",
+    "email": "service@comtrailbank.com"
+  },
+  {
+    "id": 12,
+    "name": "XeronkBank",
+    "address": "577 Estate Road, Riceville, Minnesota, 5167",
+    "phone": "+1 (854) 542-2431",
+    "employeeCount": 54,
+    "workTime": "09:00-19:00",
+    "email": "service@xeronkbank.com"
+  },
+  {
+    "id": 13,
+    "name": "KonnectBank",
+    "address": "167 Newkirk Placez, Kanauga, Hawaii, 439",
+    "phone": "+1 (847) 470-3180",
+    "employeeCount": 98,
+    "workTime": "09:00-19:00",
+    "email": "service@konnectbank.com"
+  },
+  {
+    "id": 14,
+    "name": "ChilliumBank",
+    "address": "821 Oriental Boulevard, Tyro, New York, 6069",
+    "phone": "+1 (930) 539-3387",
+    "employeeCount": 74,
+    "workTime": "09:00-19:00",
+    "email": "service@chilliumbank.com"
+  },
+  {
+    "id": 15,
+    "name": "ComtentBank",
+    "address": "383 Mersereau Court, Wauhillau, Utah, 9027",
+    "phone": "+1 (992) 467-3758",
+    "employeeCount": 40,
+    "workTime": "09:00-19:00",
+    "email": "service@comtentbank.com"
+  },
+  {
+    "id": 16,
+    "name": "GenekomBank",
+    "address": "434 Highland Boulevard, Wolcott, Maine, 9259",
+    "phone": "+1 (955) 444-2446",
+    "employeeCount": 67,
+    "workTime": "09:00-19:00",
+    "email": "service@genekombank.com"
+  },
+  {
+    "id": 17,
+    "name": "ElectonicBank",
+    "address": "464 Beaumont Street, Lindcove, American Samoa, 7285",
+    "phone": "+1 (976) 472-3730",
+    "employeeCount": 44,
+    "workTime": "09:00-19:00",
+    "email": "service@electonicbank.com"
+  },
+  {
+    "id": 18,
+    "name": "MultiflexBank",
+    "address": "210 Sumner Place, Lithium, Guam, 6248",
+    "phone": "+1 (918) 461-3912",
+    "employeeCount": 41,
+    "workTime": "09:00-19:00",
+    "email": "service@multiflexbank.com"
+  },
+  {
+    "id": 19,
+    "name": "KangleBank",
+    "address": "980 Covert Street, Neahkahnie, New Hampshire, 3375",
+    "phone": "+1 (816) 409-2159",
+    "employeeCount": 91,
+    "workTime": "09:00-19:00",
+    "email": "service@kanglebank.com"
+  },
+  {
+    "id": 20,
+    "name": "ZillanetBank",
+    "address": "747 Onderdonk Avenue, Frizzleburg, Kansas, 7116",
+    "phone": "+1 (885) 500-3265",
+    "employeeCount": 80,
+    "workTime": "09:00-19:00",
+    "email": "service@zillanetbank.com"
+  },
+  {
+    "id": 21,
+    "name": "PhotobinBank",
+    "address": "539 Moffat Street, Brecon, North Dakota, 5169",
+    "phone": "+1 (884) 486-2511",
+    "employeeCount": 40,
+    "workTime": "09:00-19:00",
+    "email": "service@photobinbank.com"
+  },
+  {
+    "id": 22,
+    "name": "VelosBank",
+    "address": "354 Alabama Avenue, Aguila, Idaho, 2007",
+    "phone": "+1 (869) 511-2027",
+    "employeeCount": 66,
+    "workTime": "09:00-19:00",
+    "email": "service@velosbank.com"
+  },
+  {
+    "id": 23,
+    "name": "LovepadBank",
+    "address": "790 Wakeman Place, Eggertsville, Oregon, 3657",
+    "phone": "+1 (847) 544-3683",
+    "employeeCount": 36,
+    "workTime": "09:00-19:00",
+    "email": "service@lovepadbank.com"
+  },
+  {
+    "id": 24,
+    "name": "SplinxBank",
+    "address": "839 Pershing Loop, Hayes, Texas, 9665",
+    "phone": "+1 (948) 542-3161",
+    "employeeCount": 79,
+    "workTime": "09:00-19:00",
+    "email": "service@splinxbank.com"
+  },
+  {
+    "id": 25,
+    "name": "NaxdisBank",
+    "address": "509 Hull Street, Walker, Federated States Of Micronesia, 9737",
+    "phone": "+1 (845) 539-2949",
+    "employeeCount": 45,
+    "workTime": "09:00-19:00",
+    "email": "service@naxdisbank.com"
+  },
+  {
+    "id": 26,
+    "name": "ScentyBank",
+    "address": "676 Stryker Court, Elwood, Arizona, 7875",
+    "phone": "+1 (946) 489-3955",
+    "employeeCount": 46,
+    "workTime": "09:00-19:00",
+    "email": "service@scentybank.com"
+  },
+  {
+    "id": 27,
+    "name": "FarmageBank",
+    "address": "809 Seigel Street, Chamberino, Virginia, 9298",
+    "phone": "+1 (855) 515-2291",
+    "employeeCount": 35,
+    "workTime": "09:00-19:00",
+    "email": "service@farmagebank.com"
+  },
+  {
+    "id": 28,
+    "name": "AustexBank",
+    "address": "815 Jerome Street, Ahwahnee, North Carolina, 5369",
+    "phone": "+1 (955) 490-2230",
+    "employeeCount": 84,
+    "workTime": "09:00-19:00",
+    "email": "service@austexbank.com"
+  },
+  {
+    "id": 29,
+    "name": "GadtronBank",
+    "address": "643 Falmouth Street, Loomis, Washington, 4761",
+    "phone": "+1 (810) 471-2874",
+    "employeeCount": 83,
+    "workTime": "09:00-19:00",
+    "email": "service@gadtronbank.com"
+  },
+  {
+    "id": 30,
+    "name": "BostonicBank",
+    "address": "280 Powell Street, Downsville, Massachusetts, 2225",
+    "phone": "+1 (954) 566-2331",
+    "employeeCount": 68,
+    "workTime": "09:00-19:00",
+    "email": "service@bostonicbank.com"
+  },
+  {
+    "id": 31,
+    "name": "PremiantBank",
+    "address": "339 Colby Court, Riverton, South Carolina, 8027",
+    "phone": "+1 (895) 403-3137",
+    "employeeCount": 24,
+    "workTime": "09:00-19:00",
+    "email": "service@premiantbank.com"
+  },
+  {
+    "id": 32,
+    "name": "PholioBank",
+    "address": "453 Lorimer Street, Edinburg, Oklahoma, 9954",
+    "phone": "+1 (937) 545-3505",
+    "employeeCount": 83,
+    "workTime": "09:00-19:00",
+    "email": "service@pholiobank.com"
+  },
+  {
+    "id": 33,
+    "name": "UniworldBank",
+    "address": "515 Elmwood Avenue, Sussex, Florida, 2356",
+    "phone": "+1 (885) 473-3360",
+    "employeeCount": 35,
+    "workTime": "09:00-19:00",
+    "email": "service@uniworldbank.com"
+  },
+  {
+    "id": 34,
+    "name": "MemoraBank",
+    "address": "266 Fleet Walk, Finzel, Wyoming, 3281",
+    "phone": "+1 (957) 493-3240",
+    "employeeCount": 47,
+    "workTime": "09:00-19:00",
+    "email": "service@memorabank.com"
+  },
+  {
+    "id": 35,
+    "name": "ProsureBank",
+    "address": "270 Granite Street, Loretto, Virgin Islands, 1362",
+    "phone": "+1 (885) 596-3854",
+    "employeeCount": 88,
+    "workTime": "09:00-19:00",
+    "email": "service@prosurebank.com"
+  },
+  {
+    "id": 36,
+    "name": "RetrotexBank",
+    "address": "380 Wyckoff Avenue, Blende, Missouri, 4561",
+    "phone": "+1 (991) 583-2980",
+    "employeeCount": 52,
+    "workTime": "09:00-19:00",
+    "email": "service@retrotexbank.com"
+  },
+  {
+    "id": 37,
+    "name": "UxmoxBank",
+    "address": "901 Rutland Road, Kenmar, Mississippi, 7275",
+    "phone": "+1 (929) 466-2920",
+    "employeeCount": 53,
+    "workTime": "09:00-19:00",
+    "email": "service@uxmoxbank.com"
+  },
+  {
+    "id": 38,
+    "name": "ComveyorBank",
+    "address": "135 Jerome Avenue, Belmont, Nebraska, 5235",
+    "phone": "+1 (954) 430-3362",
+    "employeeCount": 30,
+    "workTime": "09:00-19:00",
+    "email": "service@comveyorbank.com"
+  },
+  {
+    "id": 39,
+    "name": "ShepardBank",
+    "address": "687 National Drive, Rodanthe, Indiana, 5302",
+    "phone": "+1 (960) 407-2086",
+    "employeeCount": 44,
+    "workTime": "09:00-19:00",
+    "email": "service@shepardbank.com"
+  },
+  {
+    "id": 40,
+    "name": "VisaliaBank",
+    "address": "744 Hancock Street, Cochranville, Palau, 1139",
+    "phone": "+1 (936) 552-2912",
+    "employeeCount": 99,
+    "workTime": "09:00-19:00",
+    "email": "service@visaliabank.com"
+  },
+  {
+    "id": 41,
+    "name": "ValprealBank",
+    "address": "783 Stockholm Street, Marshall, Alabama, 2708",
+    "phone": "+1 (862) 448-3556",
+    "employeeCount": 75,
+    "workTime": "09:00-19:00",
+    "email": "service@valprealbank.com"
+  },
+  {
+    "id": 42,
+    "name": "RubadubBank",
+    "address": "748 Turnbull Avenue, Villarreal, Maryland, 6182",
+    "phone": "+1 (920) 531-2000",
+    "employeeCount": 82,
+    "workTime": "09:00-19:00",
+    "email": "service@rubadubbank.com"
+  },
+  {
+    "id": 43,
+    "name": "MangloBank",
+    "address": "454 Cornelia Street, Gorst, Montana, 2577",
+    "phone": "+1 (995) 429-3813",
+    "employeeCount": 59,
+    "workTime": "09:00-19:00",
+    "email": "service@manglobank.com"
+  },
+  {
+    "id": 44,
+    "name": "CinesanctBank",
+    "address": "646 Chestnut Avenue, Roy, Delaware, 2160",
+    "phone": "+1 (804) 425-3533",
+    "employeeCount": 84,
+    "workTime": "09:00-19:00",
+    "email": "service@cinesanctbank.com"
+  }
+]
